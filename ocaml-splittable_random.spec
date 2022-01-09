@@ -62,7 +62,7 @@ używających biblioteki splittable_random.
 
 %package devel
 Summary:	PRNG that can be split into independent streams - development part
-Summary(pl.UTF-8):	PRNG pozwalający na dzielenie na niezależne strumienie - cześć programistyczna
+Summary(pl.UTF-8):	PRNG pozwalający na dzielenie na niezależne strumienie - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
